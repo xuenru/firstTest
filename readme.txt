@@ -1,2 +1,2 @@
-Hello 1 2
-line b
+Git is a version control system.
+Git is free software.
