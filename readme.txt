@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Git can merge branchs.
 on branch dev editing ..   not finished yet.
+Editing test by MAC ......
